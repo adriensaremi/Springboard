@@ -1,2 +1,2 @@
 # Springboard
-Material for the Springboard Course
+Material for the Springboard Data Science Certificate
