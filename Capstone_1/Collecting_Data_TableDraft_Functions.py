@@ -186,7 +186,7 @@ def nflstats(soup):
     table_caption = find_caption(table_0)
     
     table = pd.DataFrame(columns=list_of_nfl,
-                         index=range(0,25))#create a new blank table
+                         index=range(0,30))#create a new blank table
     
     row_marker = 0
     for row in table_0.find_all('tr'):
