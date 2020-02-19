@@ -10,3 +10,4 @@ This directory contains all the mini-projects done throughout the course, such a
 ### Capstone Projects 
 Most importantly, it contains sub directories of the capstone projects. 
 Those are data science projects done from start to finish, and include collecting datasets, cleaning and organizing, visualizing the data, and building predictive models.
+I recommand to open each corresponding directory to know more about the objective and the methodology used for each project.
