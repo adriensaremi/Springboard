@@ -1,13 +1,4 @@
 # Springboard
-Material for the Springboard Data Science Certificate
-
-### Mini-projects 
-This directory contains all the mini-projects done throughout the course, such as mini-projects on:
-- sql
-- json
-- api
-
-### Capstone Projects 
-Most importantly, it contains sub directories of the capstone projects. 
-Those are data science projects done from start to finish, and include collecting datasets, cleaning and organizing, visualizing the data, and building predictive models.
-I recommand to open each corresponding directory to know more about the objective and the methodology used for each project.
+In this directory, you will find all content from the Springboard assignments, a online data science education platform that trains data scientists to face most of the challenges faced in the data science business world. The exercises are various, and are in the form of:
+- mini-projects: each one covering a specific topic of data science
+- capstone projects (two of them): where under the supervision of Lucas Allen, my mentor at Springboard, I go over data science projects done from start to finish and which include: collecting datasets, cleaning and organizing, visualizing the data, perform statistical analysis and building predictive models. I recommend to open each corresponding sub-directory to know more about the objective and the methodology used for each project.
