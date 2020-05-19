@@ -5,7 +5,7 @@ In this directory, you will find all content from the Springboard assignments, a
 
 There capstone assignments are done under the supervision of Lucas Allen, my mentor at Springboard. They are data science projects done from start to finish and they include: 
 - collecting datasets,
-- cleaning,organizing, and visualizing the data, 
+- cleaning, organizing, and visualizing the data, 
 - perform statistical analysis,
 - and building predictive models. 
 I recommend to open each corresponding sub-directory to know more about the objective and the methodology used for each project.
