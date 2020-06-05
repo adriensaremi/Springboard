@@ -22,4 +22,4 @@ You can also check the notebooks in this repository. Each is specifically orient
 - Statistical_Data_Analysis.ipynb: runs advanced inferential statistics on data
 - Machine_Learning_Model (1) and (2): build two predictive models. The first one produced unsatisfactory predictions with regard to our target (the number of receiving yards during the first 5 years in the NFL) and was based solely on a linear regression method. The second is a classifier which instead predicts the chance of a player being successful in the league, a model which turns out to be far more profitable and reliable.
 
-Some of these notebooks come with a respective module file (filenampe.py) where we define each of the user-defined functions that we use in the corresponding notebook.
+Some of these notebooks come with a respective module file (filename.py) where we define each of the user-defined functions that we use in the corresponding notebook.
