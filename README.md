@@ -1,6 +1,6 @@
 ## Springboard
 
-In this directory, you will find all content from the Springboard assignments, a online data science education platform that trains data scientists to face most of the challenges faced in the data science business world. The exercises are various, and mostly are in the form of:
+In this directory, you will find all content from the Springboard assignments, a online data science education platform that trains data scientists to face most of the challenges of the data science business world. The exercises are various, and are in the form of:
 - mini-projects: each one covering a specific topic of data science.
 - capstone projects (two of them)
 
