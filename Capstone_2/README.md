@@ -1,4 +1,5 @@
-# Capstone Project: Predicting Wide Receivers Performance in the NFL
+# Develop a Image-to-Image Translation Model to Capture Local Interactions in Mechanical Networks (GAN)
+
 
 ### Quick Summary
 
