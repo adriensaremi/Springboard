@@ -1,0 +1,536 @@
+Player,Pos,Ht,Wt,Forty,Vertical,BenchReps,BroadJump,Cone,Shuttle,Year,Pfr_ID,AV,Team,Round,Pick
+Plaxico Burress,WR,77,231,4.59,33.0,,115.0,,,2000,BurrPl00,25.0,Pittsburgh Steelers,1.0,8.0
+Kwame Cavil,WR,74,208,4.54,39.5,,118.0,,,2000,CaviKw00,0.0,,,
+Chris Cole,WR,72,191,4.37,37.5,,125.0,6.76,4.09,2000,ColeCh00,1.0,Denver Broncos,3.0,70.0
+Chris Coleman,WR,72,211,4.61,32.5,,110.0,6.79,4.1,2000,ColeCh01,0.0,,,
+Laveranues Coles,WR,71,192,4.41,34.0,,115.0,6.89,4.39,2000,ColeLa00,26.0,New York Jets,3.0,78.0
+Chris Daniels,WR,75,217,4.74,33.0,,115.0,7.2,4.24,2000,,0.0,,,
+Brandon Daniels,WR,70,211,4.54,,,,,,2000,,0.0,,,
+JaJuan Dawson,WR,73,199,4.55,34.0,,117.0,6.96,4.16,2000,DawsJa00,5.0,Cleveland Browns,3.0,79.0
+Ron Dugans,WR,73,206,4.58,,,117.0,,,2000,DugaRo00,6.0,Cincinnati Bengals,3.0,66.0
+Matt Farmer,WR,72,190,4.51,33.0,,108.0,6.63,3.94,2000,,0.0,,,
+Danny Farmer,WR,75,217,4.58,,,,,,2000,FarmDa00,5.0,Pittsburgh Steelers,4.0,103.0
+Chafie Fields,WR,73,196,4.43,,,,,,2000,,0.0,,,
+Larry Foster,WR,70,198,4.55,37.0,,121.0,6.88,4.06,2000,FostLa00,5.0,,,
+Trevor Gaylor,WR,75,199,4.56,37.5,,121.0,7.03,4.29,2000,GaylTr00,7.0,San Diego Chargers,4.0,111.0
+Sherrod Gideon,WR,71,173,4.66,,,,,,2000,,0.0,,,
+Ricky Hall,WR,74,206,4.52,,,,,,2000,,0.0,,,
+Joey Hamilton,WR,73,201,4.54,36.0,,116.0,7.57,4.41,2000,,0.0,,,
+Windrell Hayes,WR,71,204,4.5,,,,7.33,4.18,2000,HayeWi00,1.0,New York Jets,5.0,143.0
+Leroy Hodge,WR,73,215,4.54,34.5,,116.0,7.14,4.21,2000,,0.0,,,
+Trevor Insley,WR,72,192,4.7,,,,,,2000,InslTr00,2.0,,,
+Darrell Jackson,WR,72,197,4.56,,,,,,2000,JackDa00,24.0,Seattle Seahawks,3.0,80.0
+Dwaune Jones,WR,72,191,4.66,,,,,,2000,,0.0,,,
+Marcus Knight,WR,73,180,4.72,28.5,,106.0,7.11,4.38,2000,KnigMa00,0.0,,,
+Charles Lee,WR,73,202,4.56,35.5,,125.0,7.3,4.25,2000,LeexCh00,1.0,Green Bay Packers,7.0,242.0
+Anthony Lucas,WR,75,194,4.53,35.0,,121.0,,,2000,,0.0,,,
+Alton Lusk,WR,74,182,4.61,36.5,,122.0,7.16,4.26,2000,,0.0,,,
+Wendell Montgomery,WR,75,203,4.81,35.5,,117.0,7.01,4.24,2000,,0.0,,,
+Scottie Montgomery,WR,72,196,4.57,36.0,,117.0,7.16,4.11,2000,MontSc00,2.0,,,
+Muneer Moore,WR,73,201,4.52,37.5,,129.0,6.91,4.09,2000,,0.0,,,
+Sylvester Morris,WR,75,216,4.6,34.5,,119.0,7.06,4.17,2000,MorrSy00,6.0,Kansas City Chiefs,1.0,21.0
+Dennis Northcutt,WR,70,175,4.43,37.5,,123.0,6.96,4.04,2000,NortDe00,13.0,Cleveland Browns,2.0,32.0
+Cory Peterson,WR,74,195,4.75,32.5,,114.0,,,2000,,0.0,,,
+Mareno Philyaw,WR,74,205,4.66,39.5,,129.0,6.93,4.13,2000,PhilMa20,0.0,Atlanta Falcons,6.0,172.0
+Todd Pinkston,WR,74,169,4.45,,,,,,2000,PinkTo00,16.0,Philadelphia Eagles,2.0,36.0
+Jerry Porter,WR,74,221,4.48,,,,,,2000,PortJe00,10.0,Oakland Raiders,2.0,47.0
+Gari Scott,WR,72,194,4.59,33.5,,119.0,,,2000,ScotGa00,0.0,Philadelphia Eagles,4.0,99.0
+Kofi Shuck,WR,74,180,4.66,33.0,,119.0,7.18,4.1,2000,,0.0,,,
+R. Jay Soward,WR,69,177,4.34,35.0,,124.0,,,2000,SowaR.00,2.0,Jacksonville Jaguars,1.0,29.0
+Quinton Spotwood,WR,71,184,4.55,33.5,,123.0,,,2000,,0.0,,,
+Travis Taylor,WR,73,199,4.43,37.0,,118.0,7.15,,2000,TaylTr01,16.0,Baltimore Ravens,1.0,10.0
+Troy Walters,WR,66,171,4.55,32.5,,106.0,6.61,3.84,2000,WaltTr00,2.0,Minnesota Vikings,5.0,165.0
+Peter Warrick,WR,71,194,4.58,,,,,,2000,WarrPe00,16.0,Cincinnati Bengals,1.0,4.0
+Dez White,WR,73,218,4.62,37.5,,124.0,6.91,4.09,2000,WhitDe00,10.0,Chicago Bears,3.0,69.0
+James Williams,WR,71,180,4.59,36.0,,123.0,7.22,4.16,2000,WillJa01,4.0,Seattle Seahawks,6.0,175.0
+Bashir Yamini,WR,75,191,4.53,33.0,,130.0,7.09,4.18,2000,YamiBa20,0.0,,,
+Scotty Anderson,WR,74,184,4.57,34.5,,115.0,,,2001,AndeSc00,8.0,Detroit Lions,5.0,148.0
+Alex Bannister,WR,77,201,4.47,30.5,,110.0,,,2001,BannAl00,1.0,Seattle Seahawks,5.0,140.0
+Eddie Berlin,WR,71,191,4.43,39.5,,122.0,6.78,4.08,2001,BerlEd00,1.0,Tennessee Titans,5.0,159.0
+Corey Brown-01,WR,72,202,4.63,39.5,,126.0,,,2001,,0.0,,,
+Adrian Burnette,WR,70,191,4.63,,,,,,2001,,0.0,,,
+John Capel,WR,71,177,4.39,36.5,,126.0,,,2001,,0.0,,,
+Chris Chambers,WR,72,210,4.33,45.0,,134.0,,4.0,2001,ChamCh00,26.0,Miami Dolphins,2.0,52.0
+Kenny Clark-01,WR,73,225,4.59,35.5,,121.0,,,2001,ClarKe22,0.0,,,
+Ronney Daniels,WR,73,212,4.61,34.5,,118.0,,,2001,,0.0,,,
+Robert Ferguson,WR,73,205,4.48,36.5,,120.0,7.24,4.07,2001,FergRo00,9.0,Green Bay Packers,2.0,41.0
+Richmond Flowers,WR,71,195,4.55,35.5,,114.0,6.98,3.96,2001,,0.0,,,
+Rod Gardner,WR,74,219,4.48,,,,,,2001,GardRo00,20.0,Washington Redskins,1.0,15.0
+Reggie Germany,WR,73,183,4.39,,,,,,2001,GermRe00,2.0,Buffalo Bills,7.0,214.0
+Javon Green,WR,73,211,4.73,35.5,,113.0,7.41,4.34,2001,,0.0,,,
+Latef Grim,WR,71,188,4.6,,,111.0,7.27,4.33,2001,,0.0,,,
+Daniel Guy,WR,74,211,4.61,38.5,,125.0,7.35,4.29,2001,,0.0,,,
+Margin Hooks,WR,71,191,4.5,36.0,,116.0,7.08,4.18,2001,,0.0,,,
+Khori Ivy,WR,74,195,4.64,,,,,,2001,,0.0,,,
+Arnold Jackson,WR,68,167,4.48,41.0,,127.0,7.42,4.11,2001,JackAr00,0.0,,,
+Cedric James,WR,74,204,4.49,43.0,,134.0,,,2001,JameCe00,0.0,Minnesota Vikings,4.0,131.0
+Sly Johnson,WR,69,181,4.61,35.5,,115.0,,,2001,,0.0,,,
+Chad Johnson,WR,73,192,4.57,33.0,,108.0,7.51,4.14,2001,JohnCh01,24.0,Cincinnati Bengals,2.0,36.0
+Kevin Kasper,WR,72,199,4.42,43.5,,126.0,6.56,3.73,2001,KaspKe00,2.0,Denver Broncos,6.0,190.0
+Robert Kilow,WR,70,171,4.44,,,,,,2001,,0.0,,,
+Andre King,WR,72,199,4.61,,,,,,2001,KingAn00,2.0,Cleveland Browns,7.0,245.0
+Dave Klemic,WR,71,188,4.37,36.5,,116.0,,,2001,,0.0,,,
+David Martin,WR,76,242,4.76,,,,,,2001,MartDa00,3.0,Green Bay Packers,6.0,198.0
+Justin McCareins,WR,74,209,4.51,41.0,,129.0,7.06,3.99,2001,McCaJu00,14.0,Tennessee Titans,4.0,124.0
+Quentin McCord,WR,70,191,4.48,36.5,,112.0,7.17,4.18,2001,McCoQu00,5.0,Atlanta Falcons,7.0,236.0
+Shawn Mills,WR,72,180,4.51,34.5,,116.0,7.12,4.15,2001,,0.0,,,
+Snoop Minnis,WR,73,171,4.57,37.5,,115.0,7.06,4.07,2001,MinnMa00,5.0,Kansas City Chiefs,3.0,77.0
+Freddie Mitchell,WR,71,185,4.46,39.5,,120.0,6.95,4.06,2001,MitcFr00,10.0,Philadelphia Eagles,1.0,25.0
+Quincy Morgan,WR,73,211,4.48,,,,,,2001,MorgQu00,17.0,Cleveland Browns,2.0,33.0
+Santana Moss,WR,70,184,4.31,,,,,,2001,MossSa00,18.0,New York Jets,1.0,16.0
+Steve Neal,WR,73,190,4.59,36.0,,119.0,7.18,4.19,2001,NealSt20,19.0,,,
+Bobby Newcombe,WR,70,195,4.53,37.0,,117.0,6.86,3.98,2001,,0.0,Arizona Cardinals,6.0,166.0
+Nate Poole,WR,73,198,4.79,32.5,,112.0,7.26,4.22,2001,PoolNa01,3.0,,,
+Ken-Yon Rambo,WR,73,196,4.34,,,,,,2001,RambKe00,1.0,Oakland Raiders,7.0,229.0
+Koren Robinson,WR,73,211,4.61,,,,,,2001,RobiKo00,25.0,Seattle Seahawks,1.0,9.0
+Steve Smith-01,WR,69,184,4.41,38.5,,121.0,7.44,4.25,2001,SmitSt01,24.0,Carolina Panthers,3.0,74.0
+Vinny Sutherland,WR,69,192,4.48,,,,,,2001,SuthVi00,0.0,Atlanta Falcons,5.0,136.0
+Chris Taylor,WR,71,183,4.4,35.5,,115.0,6.81,3.93,2001,,0.0,Pittsburgh Steelers,7.0,218.0
+David Terrell,WR,75,213,4.43,,,,,,2001,TerrDa00,8.0,Chicago Bears,1.0,8.0
+Reggie Wayne,WR,72,198,4.45,,,,,,2001,WaynRe00,20.0,Indianapolis Colts,1.0,30.0
+Marcus Williams-01,WR,77,230,4.56,41.0,,130.0,7.37,4.2,2001,WillMa21,0.0,,,
+Cedrick Wilson-01,WR,70,179,4.48,38.0,,123.0,,,2001,WilsCe00,7.0,San Francisco 49ers,6.0,169.0
+Atrews Bell,WR,71,218,4.52,,,,,,2002,,0.0,,,
+Deion Branch,WR,69,191,4.47,36.0,,117.0,6.71,3.78,2002,BranDe00,17.0,New England Patriots,2.0,65.0
+Antonio Bryant,WR,73,188,4.57,37.0,,121.0,,,2002,BryaAn00,14.0,Dallas Cowboys,2.0,63.0
+Reche Caldwell,WR,72,194,4.53,41.5,,130.0,7.0,4.1,2002,CaldRe00,8.0,San Diego Chargers,2.0,48.0
+Kelly Campbell,WR,70,171,4.48,,,,,,2002,CampKe00,12.0,,,
+Tim Carter,WR,72,190,4.32,39.0,,126.0,6.68,3.93,2002,CartTi00,4.0,New York Giants,2.0,46.0
+Terry Charles,WR,75,207,4.52,36.5,,122.0,7.02,4.09,2002,,0.0,,,
+Andre' Davis,WR,73,194,4.42,39.5,,123.0,6.77,4.1,2002,DaviAn01,13.0,Cleveland Browns,2.0,47.0
+Antwaan Randle El,WR,70,191,4.49,,,,,,2002,RandAn00,18.0,Pittsburgh Steelers,2.0,62.0
+R.J. English,WR,74,211,4.55,37.5,,121.0,7.03,4.11,2002,,0.0,,,
+Jabar Gaffney,WR,73,193,4.56,,,,6.87,4.06,2002,GaffJa00,13.0,Houston Texans,2.0,33.0
+David Givens,WR,72,217,4.56,40.5,,126.0,6.82,4.13,2002,GiveDa00,15.0,New England Patriots,7.0,253.0
+Herb Haygood,WR,71,193,4.45,33.0,,114.0,6.65,4.26,2002,HaygHe20,0.0,Denver Broncos,5.0,144.0
+Kahlil Hill,WR,74,200,4.65,35.0,,,,,2002,HillKa20,0.0,Atlanta Falcons,6.0,184.0
+Javin Hunter,WR,71,186,4.47,41.0,,129.0,6.84,4.04,2002,HuntJa00,0.0,Baltimore Ravens,6.0,206.0
+Ron Johnson,WR,74,225,4.7,34.5,,118.0,7.12,4.02,2002,JohnRo03,1.0,Baltimore Ravens,4.0,123.0
+Emmett Johnson,WR,74,205,4.45,39.0,,122.0,7.15,4.1,2002,,0.0,,,
+Daryl Jones,WR,69,180,4.35,,,,,,2002,JoneDa02,1.0,New York Giants,7.0,226.0
+Ashley Lelie,WR,75,197,4.49,,,,,,2002,LeliAs00,22.0,Denver Broncos,1.0,19.0
+Devin Lewis,WR,74,205,4.54,38.5,,111.0,,,2002,,0.0,,,
+Aaron Lockett,WR,67,155,4.31,35.0,,119.0,6.84,4.11,2002,,0.0,Tampa Bay Buccaneers,7.0,254.0
+Lee Mays,WR,73,190,4.55,32.5,,119.0,7.08,4.17,2002,MaysLe00,1.0,Pittsburgh Steelers,6.0,202.0
+Jason McAddley,WR,73,203,4.47,36.5,,123.0,6.83,4.09,2002,McAdJa00,3.0,Arizona Cardinals,5.0,149.0
+Freddie Milons,WR,70,190,4.51,33.5,,117.0,6.84,,2002,,0.0,Philadelphia Eagles,5.0,162.0
+Kendall Newson,WR,74,200,4.69,33.5,,117.0,6.87,4.27,2002,NewsKe00,1.0,Jacksonville Jaguars,7.0,222.0
+Donnie O'Neal,WR,73,191,4.52,38.0,,126.0,6.9,,2002,,0.0,,,
+Brian Poli-Dixon,WR,77,210,4.48,,,,,,2002,,0.0,,,
+Pete Rebstock,WR,69,190,4.5,,,,,,2002,,0.0,,,
+Josh Reed,WR,70,210,4.54,,,,,,2002,ReedJo01,12.0,Buffalo Bills,2.0,36.0
+Cliff Russell,WR,71,185,4.36,,,,,,2002,RussCl00,0.0,Washington Redskins,3.0,87.0
+Jake Schifino,WR,73,200,4.49,,,,,,2002,SchiJa20,0.0,Tennessee Titans,5.0,151.0
+Donte' Stallworth,WR,72,197,4.22,,,,,,2002,StalDo00,19.0,New Orleans Saints,1.0,13.0
+Lawrence Story,WR,77,205,4.63,33.5,,114.0,7.06,4.16,2002,,0.0,,,
+T.C. Taylor,WR,76,219,4.69,31.0,,114.0,7.59,4.25,2002,,0.0,,,
+Ryan Tolhurst,WR,71,196,4.49,38.0,,123.0,6.65,3.88,2002,,0.0,,,
+Javon Walker,WR,75,210,4.38,39.5,,128.0,6.86,4.05,2002,WalkJa00,25.0,Green Bay Packers,1.0,20.0
+Marquise Walker,WR,74,219,4.63,,,,,,2002,,0.0,,,
+Sam Aiken,WR,74,209,4.59,39.5,,121.0,7.22,,2003,AikeSa00,3.0,Buffalo Bills,4.0,127.0
+Paul Arnold,WR,73,213,4.53,40.5,,131.0,6.84,4.11,2003,,0.0,,,
+Arnaz Battle,WR,73,217,4.58,35.0,,117.0,6.74,4.06,2003,BattAr00,5.0,San Francisco 49ers,6.0,197.0
+Ronald Bellamy,WR,72,208,4.57,30.5,,119.0,7.38,4.1,2003,BellRo00,0.0,,,
+Anquan Boldin,WR,73,216,4.72,33.5,,114.0,7.35,4.33,2003,BoldAn00,25.0,Arizona Cardinals,2.0,54.0
+Jamal Burke,WR,72,204,4.56,36.0,,119.0,7.2,4.13,2003,,0.0,,,
+Nate Burleson,WR,72,197,4.51,42.5,,126.0,6.96,4.16,2003,BurlNa00,19.0,Minnesota Vikings,3.0,71.0
+Mike Bush,WR,77,198,4.7,,,115.0,7.42,4.28,2003,,0.0,,,
+Tyrone Calico,WR,76,223,4.34,38.0,,127.0,6.73,4.26,2003,CaliTy00,5.0,Tennessee Titans,2.0,60.0
+Kevin Curtis-02,WR,71,186,4.42,36.0,,122.0,6.76,3.99,2003,CurtKe00,10.0,St. Louis Rams,3.0,74.0
+LaTarence Dunbar,WR,71,196,4.52,34.0,,122.0,7.41,4.35,2003,DunbLa20,0.0,Atlanta Falcons,6.0,196.0
+Terrence Edwards,WR,72,176,4.5,,,,,,2003,EdwaTe00,0.0,,,
+Doug Gabriel,WR,74,213,4.52,35.5,,116.0,7.05,4.16,2003,GabrDo00,11.0,Oakland Raiders,5.0,167.0
+Justin Gage,WR,76,217,4.45,,,,,,2003,GageJu00,7.0,Chicago Bears,5.0,143.0
+Talman Gardner,WR,73,205,4.44,34.5,,116.0,7.54,4.43,2003,GardTa00,0.0,New Orleans Saints,7.0,231.0
+Ryan Hoag,WR,74,200,4.51,38.0,,125.0,6.72,3.95,2003,,0.0,,,
+Keenan Howry,WR,70,178,4.56,31.5,,114.0,7.34,4.28,2003,HowrKe00,0.0,Minnesota Vikings,7.0,221.0
+Taylor Jacobs,WR,72,205,4.42,,,,,,2003,JacoTa00,2.0,Washington Redskins,2.0,44.0
+Teyo Johnson,WR,77,247,4.61,33.5,,,,,2003,JohnTe00,2.0,Oakland Raiders,2.0,63.0
+Bryant Johnson,WR,74,214,4.57,,,,,,2003,JohnBr02,10.0,Arizona Cardinals,1.0,17.0
+Bethel Johnson,WR,71,201,4.38,38.5,,127.0,,,2003,JohnBe00,7.0,New England Patriots,2.0,45.0
+Andre Johnson,WR,74,230,4.41,39.0,,132.0,,,2003,JohnAn02,26.0,Houston Texans,1.0,3.0
+Kareem Kelly,WR,72,186,4.42,35.0,,125.0,7.51,4.24,2003,,0.0,New Orleans Saints,6.0,203.0
+Brandon Lloyd,WR,72,184,4.62,36.0,,,,,2003,LloyBr00,12.0,San Francisco 49ers,4.0,124.0
+Adrian Madise,WR,71,215,4.49,32.0,,119.0,7.32,4.26,2003,MadiAd00,0.0,Denver Broncos,5.0,158.0
+Reno Mahe,WR,69,198,4.68,32.0,,109.0,7.27,4.23,2003,MaheRe00,3.0,,,
+Shaun McDonald,WR,68,169,4.43,,,,,,2003,McDoSh00,9.0,St. Louis Rams,4.0,106.0
+Billy McMullen,WR,76,210,4.61,,,,,,2003,McMuBi00,2.0,Philadelphia Eagles,3.0,95.0
+Cecil Moore,WR,73,210,4.6,38.0,,124.0,7.03,4.23,2003,,0.0,,,
+Carl Morris,WR,75,214,4.65,33.5,,116.0,6.93,4.09,2003,,0.0,,,
+Kassim Osgood,WR,77,208,4.68,31.0,,122.0,7.19,4.44,2003,OsgoKa00,7.0,,,
+Charles Rogers,WR,74,202,4.4,,,,,,2003,RogeCh01,4.0,Detroit Lions,1.0,2.0
+Antwone Savage,WR,71,192,4.47,32.0,,118.0,7.37,4.37,2003,,0.0,,,
+Dan Stricker,WR,74,203,4.68,39.0,,122.0,6.91,4.16,2003,,0.0,,,
+J.R. Tolver,WR,73,202,4.67,36.0,,119.0,6.99,4.23,2003,,0.0,Miami Dolphins,5.0,169.0
+Chris Vance,WR,73,189,4.55,,,,,,2003,,0.0,,,
+Bobby Wade,WR,70,193,4.66,34.5,,115.0,7.01,4.11,2003,WadeBo00,6.0,Chicago Bears,5.0,139.0
+Kelley Washington,WR,74,223,4.42,,,,,,2003,WashKe00,7.0,Cincinnati Bengals,3.0,65.0
+Walter Young,WR,77,214,4.54,39.0,,121.0,6.9,4.25,2003,YounWa00,0.0,Carolina Panthers,7.0,226.0
+Derek Abney,WR,69,179,4.58,33.5,,120.0,6.89,4.08,2004,,0.0,Baltimore Ravens,7.0,244.0
+Kevin Beard,WR,72,180,4.46,31.0,,113.0,,,2004,,0.0,,,
+Bernard Berrian,WR,73,183,4.58,38.0,,128.0,7.34,4.18,2004,BerrBe00,10.0,Chicago Bears,3.0,78.0
+Maurice Brown,WR,72,219,4.56,33.0,,117.0,7.38,4.21,2004,,0.0,,,
+Drew Carter,WR,76,204,4.36,,,,,,2004,CartDr00,8.0,Carolina Panthers,5.0,163.0
+Michael Clayton,WR,75,209,4.67,32.5,,116.0,6.77,4.09,2004,ClayMi00,15.0,Tampa Bay Buccaneers,1.0,15.0
+Keary Colbert,WR,73,207,4.6,30.0,,,,,2004,ColbKe00,10.0,Carolina Panthers,2.0,62.0
+Chris Collins,WR,73,201,4.69,35.0,,112.0,,,2004,,0.0,,,
+Terrance Copper,WR,72,208,4.53,35.5,,116.0,7.34,4.31,2004,CoppTe00,5.0,,,
+Jerricho Cotchery,WR,72,212,4.54,36.0,,121.0,6.93,3.91,2004,CotcJe00,14.0,New York Jets,4.0,108.0
+Lane Danielson,WR,72,197,4.6,31.0,,117.0,6.72,3.94,2004,,0.0,,,
+Devard Darling,WR,73,213,4.52,37.0,,129.0,,,2004,DarlDe00,0.0,Baltimore Ravens,3.0,82.0
+Lee Evans,WR,71,197,4.39,34.5,,120.0,,,2004,EvanLe00,28.0,Buffalo Bills,1.0,13.0
+Larry Fitzgerald,WR,75,225,4.48,,,,,,2004,FitzLa00,24.0,Arizona Cardinals,1.0,3.0
+Carlos Francis,WR,69,198,4.33,38.5,,114.0,6.97,4.06,2004,FranCa20,0.0,Oakland Raiders,4.0,99.0
+D.J. Hackett,WR,74,199,4.53,41.0,,131.0,6.79,4.08,2004,HackD.00,13.0,Seattle Seahawks,5.0,157.0
+Derrick Hamilton,WR,75,196,4.54,,,,,,2004,HamiDe20,0.0,San Francisco 49ers,3.0,77.0
+Devery Henderson,WR,71,198,4.41,,,,,,2004,HendDe00,9.0,New Orleans Saints,2.0,50.0
+Michael Jenkins,WR,76,218,4.4,,,,,,2004,JenkMi00,11.0,Atlanta Falcons,1.0,29.0
+Justin Jenkins,WR,71,213,4.6,35.0,,123.0,7.47,4.16,2004,JenkJu00,0.0,,,
+Tony Johnson,WR,71,202,4.61,32.5,,118.0,7.16,4.16,2004,,0.0,,,
+B.J. Johnson,WR,71,207,4.5,,,,,,2004,,0.0,,,
+Kelvin Kight,WR,72,213,4.56,34.0,,109.0,7.18,4.24,2004,KighKe00,0.0,,,
+Ryan Krause,WR,74,244,4.6,33.5,18.0,119.0,6.78,4.16,2004,KrauRy00,1.0,San Diego Chargers,6.0,169.0
+Triandos Luke,WR,71,199,4.51,38.0,,124.0,7.06,4.17,2004,LukeTr00,0.0,Denver Broncos,6.0,171.0
+Maurice Mann,WR,73,191,4.57,34.0,,118.0,,,2004,MannMa00,0.0,Cincinnati Bengals,5.0,149.0
+Tim Manning,WR,71,179,4.59,28.5,,111.0,7.24,4.27,2004,,0.0,,,
+Derek McCoy,WR,75,210,4.73,38.0,,128.0,7.1,4.09,2004,,0.0,,,
+Jeris McIntyre,WR,71,203,4.46,29.0,,112.0,6.98,4.08,2004,,0.0,Kansas City Chiefs,6.0,195.0
+Clarence Moore,WR,78,211,4.55,34.0,,122.0,6.84,4.16,2004,MoorCl00,2.0,Baltimore Ravens,6.0,199.0
+Johnnie Morant,WR,76,229,4.51,41.0,,130.0,7.34,4.22,2004,MoraJo00,0.0,Oakland Raiders,5.0,134.0
+James Newson,WR,73,213,4.76,31.5,,116.0,7.41,,2004,,0.0,,,
+Samie Parker,WR,70,179,4.39,36.0,,,,,2004,ParkSa00,12.0,Kansas City Chiefs,4.0,105.0
+Carlos Perez,WR,71,203,4.78,38.0,,118.0,,4.45,2004,,0.0,,,
+P.K. Sam,WR,75,210,4.54,34.5,,,7.04,,2004,SamxP.20,0.0,New England Patriots,5.0,164.0
+Jonathan Smith,WR,70,194,4.78,32.5,,114.0,,4.35,2004,SmitJo00,2.0,Buffalo Bills,7.0,214.0
+John Standeford,WR,75,197,4.6,32.5,,113.0,6.9,4.08,2004,StanJo00,2.0,,,
+Kendrick Starling,WR,73,193,4.49,31.5,,119.0,6.88,3.87,2004,StarKe21,0.0,,,
+Jamaar Taylor,WR,73,197,4.46,,,,,,2004,TaylJa00,1.0,New York Giants,6.0,168.0
+Sloan Thomas,WR,73,203,4.5,,,,,,2004,ThomSl00,0.0,Houston Texans,7.0,211.0
+Andrae Thurman,WR,71,192,4.54,34.5,,121.0,7.31,4.3,2004,ThurAn00,1.0,,,
+Darius Watts,WR,73,188,4.5,,,,,,2004,WattDa00,4.0,Denver Broncos,2.0,54.0
+Huey Whittaker,WR,76,234,4.62,37.0,,121.0,7.06,4.13,2004,,0.0,,,
+Ernest Wilford,WR,76,226,4.79,40.5,,130.0,,4.17,2004,WilfEr00,15.0,Jacksonville Jaguars,4.0,120.0
+Reggie Williams,WR,76,229,4.56,,,,,,2004,WillRe00,14.0,Jacksonville Jaguars,1.0,9.0
+Roy Williams-02,WR,74,212,4.48,,,,,,2004,WillRo04,24.0,Detroit Lions,1.0,7.0
+George Wilson,WR,72,213,4.63,35.0,,120.0,7.07,3.98,2004,WilsGe01,6.0,,,
+Rashaun Woods,WR,74,202,4.47,39.0,,125.0,6.93,3.97,2004,WoodRa00,1.0,San Francisco 49ers,1.0,31.0
+Carlos Wright,WR,73,203,4.65,34.0,,122.0,7.12,4.31,2004,,0.0,,,
+Kevin Youngblood,WR,76,213,4.64,34.0,,,,,2004,YounKe00,0.0,,,
+Mark Bradley,WR,73,201,4.37,39.5,,128.0,6.96,3.98,2005,BradMa00,5.0,Chicago Bears,2.0,39.0
+Craig Bragg,WR,73,196,4.46,36.0,,,,,2005,,0.0,Green Bay Packers,6.0,195.0
+Reggie Brown,WR,74,196,4.45,41.5,,128.0,6.99,3.94,2005,BrowRe01,18.0,Philadelphia Eagles,2.0,35.0
+Mark Clayton,WR,70,193,4.41,36.5,,118.0,6.95,4.07,2005,ClayMa01,16.0,Baltimore Ravens,1.0,22.0
+Airese Currie,WR,70,186,4.49,38.0,,125.0,7.05,4.07,2005,CurrAi00,0.0,Chicago Bears,5.0,140.0
+Josh Davis-02,WR,72,191,4.52,37.5,,118.0,7.19,4.22,2005,,0.0,,,
+Braylon Edwards,WR,75,211,4.45,,,,,,2005,EdwaBr00,23.0,Cleveland Browns,1.0,3.0
+Charles Frederick,WR,71,194,4.78,33.0,,108.0,7.39,4.25,2005,,0.0,,,
+Fred Gibson,WR,76,196,4.55,38.5,,126.0,7.03,4.1,2005,,0.0,Pittsburgh Steelers,4.0,131.0
+Howard Gilmore,WR,72,194,4.71,36.0,,113.0,7.56,4.44,2005,,0.0,,,
+Reggie Harrell,WR,75,214,4.58,35.0,,115.0,7.42,4.11,2005,,0.0,,,
+Chris Henry-01,WR,76,197,4.5,,,,,,2005,HenrCh00,14.0,Cincinnati Bengals,3.0,83.0
+Efrem Hill,WR,72,179,4.58,37.5,,124.0,7.42,4.07,2005,,0.0,,,
+Vincent Jackson,WR,77,241,4.46,39.0,,,,,2005,JackVi00,15.0,San Diego Chargers,2.0,61.0
+Brandon Jones,WR,73,210,4.42,37.0,,114.0,7.03,4.08,2005,JoneBr02,8.0,Tennessee Titans,3.0,96.0
+Chase Lyman,WR,75,217,4.5,,,,,,2005,,0.0,New Orleans Saints,4.0,118.0
+Tony Madison,WR,73,213,4.52,39.0,,121.0,7.13,4.3,2005,,0.0,,,
+Tommy Manus,WR,76,222,4.55,38.0,,120.0,7.2,4.34,2005,,0.0,,,
+Rasheed Marshall,WR,72,185,4.51,38.0,,121.0,6.81,3.95,2005,MarsRa00,0.0,San Francisco 49ers,5.0,174.0
+Jerome Mathis,WR,71,181,4.28,35.5,,123.0,,,2005,MathJe00,4.0,Houston Texans,4.0,114.0
+Leron McCoy,WR,73,211,4.4,37.0,,120.0,7.19,4.21,2005,McCoLe00,1.0,Arizona Cardinals,7.0,226.0
+Lance Moore,WR,69,177,4.52,,,,,,2005,MoorLa00,12.0,,,
+Terrence Murphy,WR,73,202,4.39,,,,,,2005,MurpTe00,0.0,Green Bay Packers,2.0,58.0
+Chad Owens,WR,67,183,4.62,37.0,,116.0,6.7,3.94,2005,OwenCh00,0.0,Jacksonville Jaguars,6.0,185.0
+Roscoe Parrish,WR,70,168,4.37,,,,,,2005,ParrRo00,9.0,Buffalo Bills,2.0,55.0
+Tab Perry,WR,74,229,4.46,34.0,,116.0,7.0,,2005,PerrTa00,1.0,Cincinnati Bengals,6.0,190.0
+Jamaica Rector,WR,70,186,4.47,36.5,,122.0,6.78,4.13,2005,RectJa00,0.0,,,
+Dante' Ridgeway,WR,71,212,4.57,33.0,,117.0,7.25,4.39,2005,,0.0,,,
+Courtney Roby,WR,72,189,4.41,36.5,,126.0,6.6,3.94,2005,RobyCo00,2.0,Tennessee Titans,3.0,68.0
+J.R. Russell,WR,75,206,4.56,34.5,,,,,2005,,0.0,Tampa Bay Buccaneers,7.0,253.0
+Steve Savoy,WR,71,192,4.62,,,,,,2005,,0.0,,,
+Dan Sheldon,WR,69,179,4.43,,,,,,2005,,0.0,,,
+Chauncey Stovall,WR,73,221,4.62,,,,,,2005,,0.0,,,
+Craphonso Thorpe,WR,73,188,4.38,,,,,,2005,ThorCr00,1.0,Kansas City Chiefs,4.0,116.0
+Paris Warren,WR,72,219,4.71,31.5,,,,,2005,WarrPa00,0.0,Tampa Bay Buccaneers,7.0,225.0
+Isaac West,WR,72,187,4.46,37.0,,124.0,7.21,4.22,2005,,0.0,,,
+Roddy White,WR,73,207,4.46,,,,,,2005,WhitRo00,19.0,Atlanta Falcons,1.0,27.0
+Mike Williams-02,WR,77,229,4.56,36.5,,,,,2005,WillMi03,5.0,Detroit Lions,1.0,10.0
+Troy Williamson,WR,73,203,4.32,,,,6.99,,2005,WillTr01,8.0,Minnesota Vikings,1.0,7.0
+David Anderson,WR,70,192,4.57,34.0,,116.0,6.88,4.2,2006,AndeDa01,3.0,Houston Texans,7.0,251.0
+Devin Aromashodu,WR,74,201,4.35,39.0,,120.0,7.04,4.16,2006,AromDe00,5.0,Miami Dolphins,7.0,233.0
+Miles Austin,WR,74,215,4.47,40.5,21.0,123.0,7.09,4.14,2006,AustMi00,3.0,,,
+Jason Avant,WR,72,212,4.62,37.0,20.0,118.0,,,2006,AvanJa00,6.0,Philadelphia Eagles,4.0,109.0
+Hank Baskett,WR,75,224,4.5,35.0,,119.0,6.79,4.17,2006,BaskHa00,9.0,,,
+Damarius Bilbo,WR,74,214,4.7,36.5,19.0,115.0,6.9,4.18,2006,,0.0,,,
+Jeremy Bloom,WR,69,173,4.49,,,,,,2006,,0.0,,,
+Jovon Bouknight,WR,73,195,4.71,34.0,,120.0,6.93,4.03,2006,,0.0,,,
+Jason Carter,WR,72,211,4.6,33.0,,116.0,6.89,4.21,2006,CartJa00,0.0,,,
+Marques Colston,WR,77,224,4.5,37.0,16.0,123.0,6.94,4.43,2006,ColsMa00,28.0,New Orleans Saints,7.0,252.0
+Chris Denney,WR,75,224,4.65,33.0,13.0,110.0,7.02,4.33,2006,,0.0,,,
+Skyler Green,WR,69,192,4.53,34.0,,118.0,,,2006,GreeSk20,0.0,Dallas Cowboys,4.0,125.0
+Derek Hagan,WR,74,208,4.45,36.0,,124.0,,4.07,2006,HagaDe00,5.0,Miami Dolphins,3.0,82.0
+Chris Hannon,WR,75,205,4.48,34.5,,122.0,,,2006,,0.0,,,
+Mike Hass,WR,73,208,4.59,32.0,,116.0,6.97,4.14,2006,HassMi00,0.0,New Orleans Saints,6.0,171.0
+Devin Hester,WR,71,190,4.41,38.0,16.0,124.0,,,2006,HestDe99,28.0,Chicago Bears,2.0,57.0
+Ed Hinkel,WR,72,190,4.54,34.0,,116.0,6.97,4.1,2006,,0.0,,,
+Santonio Holmes,WR,71,188,4.35,,,,,,2006,HolmSa00,26.0,Pittsburgh Steelers,1.0,25.0
+Chad Jackson,WR,73,213,4.32,38.5,,122.0,6.73,3.97,2006,JackCh00,2.0,New England Patriots,2.0,36.0
+Greg Jennings,WR,71,197,4.42,36.5,,117.0,6.68,4.16,2006,JennGr00,26.0,Green Bay Packers,2.0,52.0
+Adam Jennings,WR,69,181,4.44,37.5,,118.0,6.88,4.12,2006,JennAd00,0.0,Atlanta Falcons,6.0,184.0
+Greg Lee,WR,74,201,4.59,35.5,,114.0,6.8,4.09,2006,,0.0,,,
+Brandon Marshall-01,WR,76,229,4.52,37.0,,120.0,,,2006,MarsBr00,26.0,Denver Broncos,4.0,119.0
+Anthony Mix,WR,76,235,4.48,31.5,,111.0,,,2006,MixxAn00,0.0,,,
+Sinorice Moss,WR,68,185,4.38,,,,,,2006,MossSi00,4.0,New York Giants,2.0,44.0
+Martin Nance,WR,76,213,4.55,33.5,,112.0,6.91,4.08,2006,NancMa00,0.0,,,
+Ben Obomanu,WR,73,205,4.45,38.0,,116.0,7.17,4.21,2006,ObomBe00,5.0,Seattle Seahawks,7.0,249.0
+Jonathan Orr,WR,74,198,4.44,35.5,,119.0,7.31,4.16,2006,,0.0,Tennessee Titans,6.0,172.0
+Willie Reid,WR,70,188,4.34,37.5,,117.0,7.06,4.26,2006,ReidWi00,1.0,Pittsburgh Steelers,3.0,95.0
+Michael Robinson,WR,73,227,4.57,,,,,,2006,RobiMi00,4.0,San Francisco 49ers,4.0,100.0
+Cory Rodgers,WR,72,188,4.58,33.5,,110.0,7.37,4.19,2006,,0.0,Green Bay Packers,4.0,104.0
+Richie Ross,WR,76,209,4.61,37.0,,120.0,6.95,4.29,2006,,0.0,,,
+Brad Smith,WR,74,213,4.46,39.5,,128.0,7.0,4.33,2006,SmitBr01,6.0,New York Jets,4.0,103.0
+Clinton Solomon,WR,75,214,4.58,33.0,,114.0,7.17,4.46,2006,,0.0,,,
+Maurice Stovall,WR,76,217,4.57,35.0,,122.0,6.81,4.14,2006,StovMa00,2.0,Tampa Bay Buccaneers,3.0,90.0
+Delanie Walker,WR,73,240,4.49,36.5,,118.0,,,2006,,0.0,,,
+Todd Watkins,WR,74,202,4.4,36.0,15.0,118.0,7.13,4.24,2006,WatkTo20,1.0,Arizona Cardinals,7.0,218.0
+Jeff Webb-02,WR,74,211,4.4,37.0,,126.0,6.81,4.08,2006,WebbJe00,2.0,Kansas City Chiefs,6.0,190.0
+Brandon Williams-01,WR,69,179,4.48,34.5,,115.0,6.87,4.07,2006,WillBr01,0.0,San Francisco 49ers,3.0,84.0
+Demetrius Williams,WR,74,197,4.52,38.0,,127.0,6.84,4.08,2006,WillDe03,8.0,Baltimore Ravens,4.0,111.0
+Travis Wilson-02,WR,74,214,4.47,36.5,,120.0,6.7,3.99,2006,WilsTr00,0.0,Cleveland Browns,3.0,78.0
+Aundrae Allison,WR,72,198,4.39,37.0,,127.0,,,2007,AlliAu00,3.0,Minnesota Vikings,5.0,146.0
+Dallas Baker,WR,75,208,4.53,36.0,,129.0,6.69,4.19,2007,BakeDa01,0.0,Pittsburgh Steelers,7.0,227.0
+Reggie Ball,WR,71,203,4.67,30.0,15.0,112.0,6.9,4.19,2007,,0.0,,,
+David Ball,WR,73,196,4.7,,,,6.94,4.21,2007,,0.0,,,
+Dwayne Bowe,WR,74,221,4.51,33.0,,125.0,6.81,4.35,2007,BoweDw00,19.0,Kansas City Chiefs,1.0,23.0
+Steve Breaston,WR,72,193,4.46,33.0,,124.0,6.9,4.29,2007,BreaSt00,18.0,Arizona Cardinals,5.0,142.0
+David Clowney,WR,72,188,4.36,32.5,,123.0,7.0,4.15,2007,ClowDa00,3.0,Green Bay Packers,5.0,157.0
+Jemalle Cornelius,WR,71,184,4.57,34.5,,123.0,6.99,4.3,2007,,0.0,,,
+Chris Davis-02,WR,70,181,4.5,35.5,,115.0,6.66,4.14,2007,DaviCh02,0.0,Tennessee Titans,4.0,128.0
+Buster Davis-01,WR,73,207,4.41,,,,,,2007,DaviBu99,2.0,Arizona Cardinals,3.0,69.0
+Aaron Fairooz,WR,78,209,4.49,36.0,,125.0,6.89,4.27,2007,,0.0,,,
+Yamon Figurs,WR,71,174,4.3,,,123.0,6.85,4.21,2007,FiguYa00,2.0,Baltimore Ravens,3.0,74.0
+Joel Filani,WR,74,211,4.57,32.5,17.0,117.0,,,2007,,0.0,Tennessee Titans,6.0,188.0
+Ted Ginn,WR,71,178,4.38,,,,,,2007,GinnTe00,18.0,Miami Dolphins,1.0,9.0
+Anthony Gonzalez,WR,72,193,4.44,38.0,,123.0,6.54,4.08,2007,GonzAn00,15.0,Indianapolis Colts,1.0,32.0
+Jarrett Hicks,WR,75,210,4.67,34.5,,120.0,,,2007,,0.0,,,
+Johnnie Lee Higgins,WR,71,186,4.48,36.5,,122.0,6.62,4.32,2007,HiggJo00,8.0,Oakland Raiders,3.0,99.0
+Jason Hill,WR,72,204,4.32,37.0,,123.0,7.02,4.22,2007,HillJa00,4.0,San Francisco 49ers,3.0,76.0
+Jonathan Holland,WR,72,191,4.45,35.5,15.0,120.0,7.12,4.4,2007,HollJo01,1.0,Oakland Raiders,7.0,254.0
+Drisan James,WR,72,193,4.52,39.0,14.0,126.0,7.09,4.39,2007,,0.0,,,
+Dwayne Jarrett,WR,76,219,4.62,,,,,,2007,JarrDw00,4.0,Carolina Panthers,2.0,45.0
+Calvin Johnson,WR,77,239,4.35,,,,,,2007,JohnCa00,23.0,Detroit Lions,1.0,2.0
+Onrea Jones,WR,71,202,4.42,39.0,,121.0,7.05,4.28,2007,JoneOn20,0.0,,,
+James Jones,WR,73,207,4.54,34.0,22.0,119.0,7.06,4.2,2007,JoneJa04,14.0,Green Bay Packers,3.0,78.0
+Jacoby Jones,WR,75,210,4.5,34.0,,129.0,7.03,4.31,2007,JoneJa03,9.0,Houston Texans,3.0,73.0
+Jordan Kent,WR,76,217,4.49,,,,,,2007,KentJo20,0.0,Seattle Seahawks,6.0,210.0
+Mike Mason,WR,72,190,4.4,39.5,,129.0,6.94,4.08,2007,,0.0,,,
+Marquay McDaniel,WR,70,205,4.52,33.5,19.0,114.0,7.13,4.35,2007,,0.0,,,
+Rhema McKnight,WR,73,211,4.53,34.0,,118.0,6.84,4.16,2007,,0.0,,,
+Robert Meachem,WR,74,214,4.39,37.5,,121.0,6.97,4.31,2007,MeacRo00,17.0,New Orleans Saints,1.0,27.0
+Ryan Moore,WR,74,217,4.54,32.0,,110.0,6.87,4.35,2007,,0.0,,,
+Legedu Naanee,WR,74,225,4.41,40.0,19.0,119.0,,,2007,NaanLe00,5.0,San Diego Chargers,5.0,172.0
+Syvelle Newton,WR,73,218,4.64,,20.0,,,,2007,,0.0,,,
+Jerard Rabb,WR,74,201,4.58,36.5,,125.0,6.99,4.19,2007,,0.0,,,
+Sidney Rice,WR,75,200,4.51,39.5,,119.0,7.09,4.34,2007,RiceSi01,19.0,Minnesota Vikings,2.0,44.0
+Ryne Robinson,WR,69,179,4.47,35.0,,123.0,6.71,4.21,2007,RobiRy00,0.0,Carolina Panthers,4.0,118.0
+Laurent Robinson,WR,74,199,4.38,39.0,19.0,127.0,6.83,4.28,2007,RobiLa01,5.0,Atlanta Falcons,3.0,75.0
+Mike Sims-Walker,WR,74,209,4.35,36.5,18.0,121.0,6.92,4.39,2007,WalkMi01,16.0,Jacksonville Jaguars,3.0,79.0
+Bret Smith,WR,74,173,4.55,,,,,,2007,,0.0,,,
+Steve Smith-03,WR,72,197,4.44,38.0,,120.0,6.68,4.19,2007,SmitSt02,18.0,New York Giants,2.0,51.0
+Syndric Steptoe,WR,69,194,4.59,33.0,17.0,,,,2007,StepSy20,1.0,Cleveland Browns,7.0,234.0
+Chansi Stuckey,WR,71,197,4.56,35.0,,120.0,6.91,4.14,2007,StucCh20,10.0,New York Jets,7.0,235.0
+Jayson Swain,WR,72,212,4.63,33.0,,,,,2007,,0.0,,,
+Courtney Taylor,WR,74,204,4.5,36.0,,122.0,7.22,4.28,2007,TaylCo00,1.0,Seattle Seahawks,6.0,197.0
+Paul Thompson,WR,76,216,4.62,33.5,,127.0,6.81,4.11,2007,,0.0,,,
+Matt Trannon,WR,78,216,4.57,36.5,13.0,118.0,7.09,4.34,2007,,0.0,,,
+Chandler Williams,WR,71,184,4.42,32.5,,123.0,6.99,4.29,2007,,0.0,Minnesota Vikings,7.0,233.0
+Paul Williams,WR,73,205,4.45,38.5,,125.0,7.03,4.24,2007,WillPa00,0.0,Tennessee Titans,3.0,80.0
+D'Juan Woods,WR,72,208,4.58,36.5,,120.0,6.89,4.34,2007,WoodDJ20,0.0,,,
+Danny Amendola,WR,70,183,4.58,27.5,13.0,103.0,6.81,4.25,2008,AmenDa00,8.0,,,
+Adrian Arrington,WR,75,203,4.55,,,,,,2008,ArriAd00,1.0,New Orleans Saints,7.0,237.0
+Donnie Avery,WR,71,192,4.43,,16.0,,,,2008,AverDo00,9.0,St. Louis Rams,2.0,33.0
+Earl Bennett,WR,71,209,4.48,26.0,15.0,110.0,7.15,4.22,2008,BennEa00,12.0,Chicago Bears,3.0,70.0
+Davone Bess,WR,70,194,4.64,31.5,12.0,118.0,6.97,4.27,2008,BessDa00,17.0,,,
+Todd Blythe,WR,77,214,4.65,31.5,,118.0,6.92,4.23,2008,,0.0,,,
+Adarius Bowman,WR,75,223,4.74,,14.0,,,,2008,,0.0,,,
+Mark Bradford,WR,73,211,4.69,36.5,19.0,120.0,7.12,4.47,2008,,0.0,,,
+Brandon Breazell,WR,72,160,4.41,30.5,,115.0,6.97,,2008,,0.0,,,
+Travis Brown-02,WR,74,202,4.49,30.0,13.0,120.0,7.18,4.38,2008,,0.0,,,
+Dorien Bryant,WR,70,174,4.49,,,119.0,6.88,4.24,2008,,0.0,,,
+Keenan Burton,WR,72,201,4.44,38.5,10.0,125.0,6.77,4.2,2008,BurtKe00,3.0,St. Louis Rams,4.0,128.0
+Andre Caldwell,WR,72,204,4.35,33.0,,124.0,6.75,4.11,2008,CaldAn00,8.0,Cincinnati Bengals,3.0,97.0
+Early Doucet,WR,72,209,4.59,,,,,,2008,DoucEa00,5.0,Arizona Cardinals,3.0,81.0
+Harry Douglas,WR,71,176,4.51,31.0,,120.0,6.57,4.12,2008,DougHa00,13.0,Atlanta Falcons,3.0,84.0
+De'Cody Fagg,WR,73,211,4.61,,,,,,2008,,0.0,,,
+Will Franklin,WR,72,214,4.37,34.5,,,,,2008,FranWi00,1.0,Kansas City Chiefs,4.0,105.0
+Pierre Garcon,WR,72,210,4.42,36.5,20.0,125.0,6.9,4.19,2008,GarcPi00,17.0,Indianapolis Colts,6.0,205.0
+Ryan Grice-Mullen,WR,70,187,4.53,27.5,17.0,118.0,6.91,4.16,2008,,0.0,,,
+D.J. Hall,WR,74,193,4.54,29.5,,122.0,,,2008,,0.0,,,
+James Hardy,WR,77,217,4.45,31.5,18.0,125.0,6.84,4.2,2008,HardJa00,1.0,Buffalo Bills,2.0,41.0
+Justin Harper,WR,75,213,4.56,28.5,,120.0,7.03,4.43,2008,HarpJu01,0.0,Baltimore Ravens,7.0,215.0
+Lavelle Hawkins,WR,71,187,4.57,,14.0,117.0,,,2008,HawkLa00,3.0,Tennessee Titans,4.0,126.0
+Marcus Henry,WR,76,207,4.55,31.5,,126.0,7.08,4.3,2008,HenrMa00,0.0,New York Jets,6.0,171.0
+Paul Hubbard,WR,75,221,4.49,29.5,15.0,126.0,,,2008,HubbPa00,0.0,Cleveland Browns,6.0,191.0
+Dexter Jackson,WR,69,182,4.33,29.5,,122.0,6.81,4.38,2008,JackDe01,0.0,Tampa Bay Buccaneers,2.0,58.0
+DeSean Jackson,WR,70,169,4.35,,,120.0,,,2008,JackDe00,34.0,Philadelphia Eagles,2.0,49.0
+Darnell Jenkins,WR,69,187,4.52,26.5,13.0,115.0,7.33,4.37,2008,JenkDa20,0.0,,,
+Stevie Johnson,WR,74,210,4.46,32.5,,121.0,7.07,4.26,2008,,0.0,,,
+Jaymar Johnson,WR,71,177,4.5,32.0,14.0,118.0,6.75,4.18,2008,JohnJa01,0.0,Minnesota Vikings,6.0,193.0
+Malcolm Kelly,WR,76,224,4.68,,,,,,2008,KellMa01,3.0,Washington Redskins,2.0,51.0
+Mario Manningham,WR,72,181,4.59,32.0,16.0,117.0,7.34,4.27,2008,MannMa01,15.0,New York Giants,3.0,95.0
+Shaheer McBride,WR,73,205,4.61,29.0,,112.0,7.12,4.48,2008,,0.0,,,
+Marcus Monk,WR,76,222,4.56,34.5,9.0,119.0,7.08,4.3,2008,MonkMa00,0.0,Chicago Bears,7.0,248.0
+Kenneth Moore,WR,71,195,4.47,28.0,,120.0,7.09,4.3,2008,MoorKe00,1.0,Detroit Lions,5.0,136.0
+Josh Morgan,WR,72,219,4.46,,,,,,2008,MorgJo00,13.0,San Francisco 49ers,6.0,174.0
+Jordy Nelson,WR,75,217,4.51,31.0,,123.0,7.03,4.35,2008,NelsJo00,11.0,Green Bay Packers,2.0,36.0
+Brian Paysinger,WR,74,206,4.55,,,,,,2008,,0.0,,,
+Billy Pittman,WR,71,189,4.7,32.5,12.0,114.0,7.04,4.4,2008,,0.0,,,
+Maurice Purify,WR,75,224,4.5,28.5,,117.0,6.95,4.29,2008,PuriMa00,0.0,,,
+Darius Reynaud,WR,69,201,4.48,34.5,20.0,130.0,6.88,4.32,2008,ReynDa00,0.0,,,
+Jason Rivers,WR,73,200,4.59,30.0,,118.0,7.03,4.32,2008,,0.0,,,
+Kevin Robinson,WR,71,202,4.69,27.5,,115.0,7.31,4.77,2008,RobiKe00,0.0,Kansas City Chiefs,6.0,182.0
+Eddie Royal,WR,70,184,4.39,36.0,24.0,124.0,7.07,4.34,2008,RoyaEd00,19.0,Denver Broncos,2.0,42.0
+Lorne Sam,WR,74,220,4.59,33.0,23.0,122.0,7.11,4.35,2008,,0.0,,,
+Arman Shields,WR,73,194,4.37,37.5,19.0,128.0,6.67,3.96,2008,ShieAr00,0.0,Oakland Raiders,4.0,125.0
+Jerome Simpson,WR,74,199,4.42,37.5,,136.0,7.08,4.52,2008,SimpJe00,2.0,Cincinnati Bengals,2.0,46.0
+Marcus Smith-01,WR,73,221,4.51,26.5,20.0,111.0,7.1,4.42,2008,SmitMa01,0.0,Baltimore Ravens,4.0,106.0
+Taj Smith,WR,72,187,4.59,35.0,,119.0,7.15,4.5,2008,SmitTa00,0.0,,,
+Limas Sweed,WR,76,215,4.48,35.0,,,,,2008,SweeLi00,1.0,Pittsburgh Steelers,2.0,53.0
+Devin Thomas,WR,74,216,4.41,28.0,,126.0,7.15,4.26,2008,ThomDe02,4.0,Washington Redskins,2.0,34.0
+Mario Urrutia,WR,77,232,4.59,30.0,16.0,115.0,7.07,4.44,2008,UrruMa00,0.0,Cincinnati Bengals,7.0,246.0
+Joe West,WR,73,213,4.52,32.0,20.0,113.0,6.96,4.33,2008,,0.0,,,
+Ramses Barden,WR,78,229,4.51,33.5,17.0,118.0,,4.26,2009,BardRa00,2.0,New York Giants,3.0,85.0
+Kenny Britt,WR,75,218,4.47,37.0,23.0,124.0,,4.47,2009,BritKe00,17.0,Tennessee Titans,1.0,30.0
+Deon Butler,WR,70,182,4.31,34.5,12.0,118.0,7.01,4.48,2009,ButlDe00,4.0,Seattle Seahawks,3.0,91.0
+Demetrius Byrd,WR,72,199,4.35,31.5,,117.0,,,2009,,0.0,San Diego Chargers,7.0,224.0
+Jeremy Childs,WR,72,200,4.47,33.5,,115.0,6.9,4.26,2009,,0.0,,,
+Austin Collie,WR,73,200,4.53,34.0,17.0,120.0,6.78,4.24,2009,CollAu00,18.0,Indianapolis Colts,4.0,127.0
+Quan Cosby,WR,69,196,4.5,,,,7.28,4.47,2009,CosbQu00,0.0,,,
+Michael Crabtree,WR,73,215,4.54,,,,,,2009,CrabMi00,21.0,San Francisco 49ers,1.0,10.0
+Jarett Dillard,WR,70,191,4.5,42.5,13.0,129.0,7.1,4.41,2009,DillJa00,3.0,Jacksonville Jaguars,5.0,144.0
+Dominique Edison,WR,74,204,4.42,37.0,,120.0,,4.18,2009,EdisDo00,0.0,Tennessee Titans,6.0,206.0
+Brooks Foster,WR,72,211,4.44,,27.0,,,,2009,FostBr00,0.0,St. Louis Rams,5.0,160.0
+Brandon Gibson,WR,72,210,4.59,,,,,,2009,GibsBr00,9.0,Philadelphia Eagles,6.0,194.0
+Brian Hartline,WR,74,195,4.49,34.5,,120.0,6.65,4.12,2009,HartBr00,14.0,Miami Dolphins,4.0,108.0
+Percy Harvin,WR,71,192,4.39,,19.0,,,,2009,HarvPe00,32.0,Minnesota Vikings,1.0,22.0
+Darrius Heyward-Bey,WR,74,210,4.3,38.5,16.0,126.0,6.8,4.18,2009,HeywDa00,13.0,Oakland Raiders,1.0,7.0
+Juaquin Iglesias,WR,73,210,4.44,34.5,,116.0,,4.4,2009,IgleJu00,0.0,Chicago Bears,3.0,99.0
+Taurus Johnson,WR,72,206,4.49,35.5,18.0,121.0,7.37,4.24,2009,,0.0,,,
+Manuel Johnson,WR,71,189,4.5,,,,,,2009,JohnMa04,0.0,Dallas Cowboys,7.0,229.0
+Aaron Kelly,WR,76,204,4.49,38.0,11.0,119.0,7.25,4.45,2009,,0.0,,,
+Johnny Knox,WR,71,185,4.34,35.0,,122.0,6.81,4.15,2009,KnoxJo00,20.0,Chicago Bears,5.0,140.0
+Quinten Lawrence,WR,72,184,4.4,,20.0,,,,2009,LawrQu00,0.0,Kansas City Chiefs,6.0,175.0
+Jeremy Maclin,WR,72,198,4.43,,,,,,2009,MaclJe00,23.0,Philadelphia Eagles,1.0,19.0
+Brennan Marion,WR,71,187,4.52,,,,,,2009,,0.0,,,
+Mohamed Massaquoi,WR,73,210,4.51,36.5,,127.0,,,2009,MassMo00,11.0,Cleveland Browns,2.0,50.0
+Kenny McKinley,WR,72,189,4.37,37.0,,113.0,6.96,4.1,2009,McKiKe00,0.0,Denver Broncos,5.0,141.0
+Andrew Means,WR,73,214,4.36,34.5,12.0,116.0,6.85,4.21,2009,,0.0,,,
+Marko Mitchell,WR,76,218,4.43,32.0,9.0,116.0,7.04,4.33,2009,MitcMa00,0.0,Washington Redskins,7.0,243.0
+Louis Murphy,WR,74,203,4.32,,12.0,,,,2009,MurpLo00,11.0,Oakland Raiders,4.0,124.0
+Hakeem Nicks,WR,73,212,4.51,36.0,,,,,2009,NickHa01,26.0,New York Giants,1.0,29.0
+Jordan Norwood,WR,71,179,4.58,38.0,,119.0,6.8,4.2,2009,NorwJo00,3.0,,,
+Kevin Ogletree,WR,72,196,4.36,36.0,,122.0,6.67,4.08,2009,OgleKe00,2.0,,,
+Greg Orton,WR,75,207,4.61,38.0,22.0,125.0,6.9,4.33,2009,OrtoGr00,0.0,,,
+Darius Passmore,WR,72,188,4.46,33.5,,,,,2009,,0.0,,,
+David Richmond,WR,74,197,4.59,36.5,,,,4.42,2009,,0.0,,,
+Brian Robiskie,WR,75,209,4.46,37.5,,,6.72,4.19,2009,RobiBr00,3.0,Cleveland Browns,2.0,36.0
+Sammie Stroughter,WR,69,189,4.45,30.0,13.0,110.0,7.03,4.28,2009,StroSa00,5.0,Tampa Bay Buccaneers,7.0,233.0
+Nate Swift,WR,73,203,4.63,35.5,12.0,110.0,6.78,4.24,2009,,0.0,,,
+Brandon Tate,WR,72,183,4.52,,,,,,2009,TateBr00,9.0,New England Patriots,3.0,83.0
+Mike Thomas,WR,68,195,4.3,40.5,,126.0,6.65,4.28,2009,ThomMi01,20.0,Jacksonville Jaguars,4.0,107.0
+Patrick Turner,WR,77,223,4.59,,,,,,2009,TurnPa00,1.0,Miami Dolphins,3.0,87.0
+Tiquan Underwood,WR,73,184,4.31,41.5,7.0,129.0,6.62,4.11,2009,UndeTi00,1.0,Jacksonville Jaguars,7.0,253.0
+Mike Wallace,WR,72,199,4.33,40.0,14.0,129.0,6.9,4.27,2009,WallMi00,28.0,Pittsburgh Steelers,3.0,84.0
+Derrick Williams,WR,71,194,4.47,33.0,15.0,,,,2009,WillDe05,0.0,Detroit Lions,3.0,82.0
+Jaison Williams,WR,76,237,4.47,35.5,14.0,118.0,7.37,4.56,2009,,0.0,,,
+Seyi Ajirotutu,WR,75,204,4.6,36.0,14.0,115.0,7.22,4.39,2010,AjirSe00,3.0,,,
+Danario Alexander,WR,77,215,4.62,,,,,,2010,AlexDa00,9.0,,,
+Alric Arnett,WR,74,188,4.52,40.0,,122.0,7.03,4.43,2010,,0.0,,,
+Brandon Banks,WR,67,149,4.37,31.0,,113.0,6.88,4.29,2010,BankBr00,1.0,,,
+Chris Bell,WR,74,211,4.5,35.0,15.0,117.0,6.76,4.35,2010,,0.0,,,
+Arrelious Benn,WR,73,219,4.57,37.0,20.0,118.0,,,2010,BennAr00,7.0,Tampa Bay Buccaneers,2.0,39.0
+Nyan Boateng,WR,73,204,4.66,36.0,14.0,112.0,7.35,4.69,2010,,0.0,,,
+Dezmon Briscoe,WR,74,207,4.66,33.0,9.0,115.0,7.1,4.57,2010,BrisDe00,4.0,Cincinnati Bengals,6.0,191.0
+Antonio Brown,WR,70,186,4.56,33.5,13.0,105.0,6.98,4.18,2010,BrowAn04,18.0,Pittsburgh Steelers,6.0,195.0
+Dez Bryant,WR,74,225,4.52,,,,,,2010,BryaDe01,26.0,Dallas Cowboys,1.0,24.0
+Chris Carter-01,WR,71,191,4.49,,12.0,,,,2010,,0.0,,,
+Riley Cooper,WR,75,222,4.53,33.0,,114.0,,,2010,CoopRi00,6.0,Philadelphia Eagles,5.0,159.0
+Eric Decker,WR,75,217,4.54,,15.0,,,,2010,DeckEr00,17.0,Denver Broncos,3.0,87.0
+Marcus Easley,WR,75,210,4.39,34.0,16.0,123.0,6.94,4.6,2010,EaslMa00,0.0,Buffalo Bills,4.0,107.0
+Armanti Edwards,WR,71,187,4.41,,,,,,2010,EdwaAr00,1.0,Carolina Panthers,3.0,89.0
+Jacoby Ford,WR,69,186,4.28,33.5,15.0,115.0,7.0,4.44,2010,FordJa01,11.0,Oakland Raiders,4.0,108.0
+David Gettis,WR,75,217,4.43,34.5,15.0,124.0,6.94,4.41,2010,GettDa00,3.0,Carolina Panthers,6.0,198.0
+Mardy Gilyard,WR,72,187,4.61,39.0,,116.0,6.92,4.4,2010,GilyMa00,1.0,St. Louis Rams,4.0,99.0
+Shay Hodge,WR,73,209,4.62,33.5,11.0,117.0,6.9,4.32,2010,,0.0,,,
+Trindon Holliday,WR,65,166,4.34,42.0,10.0,116.0,6.54,4.48,2010,HollTr00,4.0,Houston Texans,6.0,197.0
+Donald Jones,WR,72,214,4.46,41.0,20.0,119.0,6.9,4.2,2010,JoneDo00,8.0,,,
+Kevin Jurovich,WR,71,188,4.45,,14.0,,,,2010,JuroKe00,0.0,,,
+Brandon LaFell,WR,74,211,4.58,36.0,,115.0,6.81,4.23,2010,LaFeBr00,15.0,Carolina Panthers,3.0,78.0
+Scott Long,WR,74,216,4.46,41.5,20.0,123.0,6.45,4.09,2010,,0.0,,,
+Dexter McCluster,WR,69,172,4.53,37.5,20.0,118.0,,4.06,2010,McClDe00,11.0,Kansas City Chiefs,2.0,36.0
+Chris McGaha,WR,73,201,4.52,40.0,19.0,122.0,,4.21,2010,,0.0,,,
+Kerry Meier,WR,74,224,4.62,35.0,13.0,115.0,,4.23,2010,MeieKe00,0.0,Atlanta Falcons,5.0,165.0
+Carlton Mitchell,WR,75,215,4.46,36.0,16.0,122.0,6.96,4.55,2010,MitcCa00,0.0,Cleveland Browns,6.0,177.0
+Preston Parker,WR,71,199,4.59,35.0,16.0,117.0,,4.16,2010,ParkPr00,4.0,,,
+Jared Perry,WR,73,178,4.51,33.5,11.0,121.0,6.75,4.39,2010,,0.0,,,
+Taylor Price,WR,72,204,4.4,37.0,16.0,114.0,6.82,4.34,2010,PricTa00,1.0,New England Patriots,3.0,90.0
+David Reed,WR,72,191,4.56,37.0,15.0,114.0,6.95,4.38,2010,ReedDa00,2.0,Baltimore Ravens,5.0,156.0
+Andre Roberts,WR,71,195,4.4,36.0,15.0,120.0,6.77,4.15,2010,RobeAn00,11.0,Arizona Cardinals,3.0,88.0
+Emmanuel Sanders,WR,71,186,4.4,39.5,12.0,126.0,6.64,4.1,2010,SandEm00,10.0,Pittsburgh Steelers,3.0,82.0
+Jordan Shipley,WR,71,193,4.6,36.5,16.0,116.0,,,2010,ShipJo00,7.0,Cincinnati Bengals,3.0,84.0
+Golden Tate,WR,70,199,4.42,35.0,17.0,120.0,7.12,4.34,2010,TateGo00,13.0,Seattle Seahawks,2.0,60.0
+Demaryius Thomas,WR,75,224,4.52,,,,,,2010,ThomDe03,19.0,Denver Broncos,1.0,22.0
+Verran Tucker,WR,74,200,4.65,,,,,,2010,TuckVe00,1.0,,,
+Chastin West,WR,72,212,4.59,33.5,15.0,113.0,,,2010,WestCh00,1.0,,,
+Blair White,WR,74,209,4.49,33.5,18.0,115.0,6.69,4.03,2010,WhitBl00,3.0,,,
+Damian Williams,WR,73,197,4.52,38.0,19.0,118.0,6.79,4.24,2010,WillDa04,8.0,Tennessee Titans,3.0,77.0
+Jeremy Williams,WR,72,206,4.59,36.0,14.0,117.0,6.73,,2010,,0.0,,,
+Kyle Williams,WR,70,188,4.4,33.0,11.0,118.0,7.0,4.19,2010,WillKy01,5.0,San Francisco 49ers,6.0,206.0
+Mike Williams-03,WR,73,221,4.53,33.5,8.0,116.0,6.9,4.31,2010,WillMi04,24.0,Tampa Bay Buccaneers,4.0,101.0
+Stephen Williams,WR,76,210,4.5,36.5,15.0,125.0,6.81,4.11,2010,WillSt01,1.0,,,
+Ryan Wolfe,WR,73,205,4.65,,13.0,,,,2010,,0.0,,,
+Darvin Adams,WR,74,190,4.56,,,,,,2011,AdamDa00,0.0,,,
+Jon Baldwin,WR,76,228,4.49,42.0,20.0,129.0,7.07,4.34,2011,BaldJo00,4.0,Kansas City Chiefs,1.0,26.0
+Armon Binns,WR,75,209,4.5,31.5,13.0,118.0,6.86,4.31,2011,BinnAr00,3.0,,,
+Vincent Brown,WR,71,187,4.68,33.5,12.0,121.0,6.64,4.25,2011,BrowVi00,8.0,San Diego Chargers,3.0,82.0
+DeAndre Brown,WR,78,233,4.59,29.0,20.0,117.0,6.93,4.33,2011,,0.0,,,
+Stephen Burton,WR,73,221,4.5,34.5,19.0,117.0,7.04,4.31,2011,BurtSt00,0.0,Minnesota Vikings,7.0,236.0
+Randall Cobb,WR,70,191,4.46,33.5,16.0,115.0,7.08,4.34,2011,CobbRa00,22.0,Green Bay Packers,2.0,64.0
+Mark Dell,WR,72,193,4.54,,14.0,,,,2011,DellMa00,0.0,,,
+Tandon Doss,WR,74,201,4.62,,14.0,,,,2011,DossTa00,4.0,Baltimore Ravens,4.0,123.0
+Clyde Gates,WR,72,192,4.31,40.0,16.0,131.0,,,2011,GateCl00,3.0,Miami Dolphins,4.0,111.0
+A.J. Green,WR,76,211,4.48,34.5,18.0,126.0,6.91,4.21,2011,GreeA.00,36.0,Cincinnati Bengals,1.0,4.0
+Tori Gurley,WR,76,216,4.53,33.5,15.0,118.0,7.05,4.25,2011,GurlTo00,0.0,,,
+Jamel Hamler,WR,73,193,4.59,32.0,4.0,112.0,7.16,4.18,2011,HamlJa00,0.0,,,
+Leonard Hankerson,WR,73,209,4.4,36.0,14.0,117.0,6.94,4.21,2011,HankLe00,9.0,Washington Redskins,3.0,79.0
+Dwayne Harris,WR,70,203,4.53,34.0,10.0,111.0,6.77,4.21,2011,HarrDw00,5.0,Dallas Cowboys,6.0,176.0
+Andre Holmes,WR,76,210,4.51,35.0,11.0,130.0,6.69,4.31,2011,HolmAn00,7.0,,,
+Lestar Jean,WR,75,215,4.61,37.5,14.0,113.0,7.45,4.43,2011,JeanLe01,1.0,,,
+Jerrel Jernigan,WR,69,185,4.46,37.5,11.0,124.0,7.07,4.25,2011,JernJe00,2.0,New York Giants,3.0,83.0
+Ronald Johnson,WR,71,199,4.46,,16.0,,,,2011,JohnRo05,0.0,San Francisco 49ers,6.0,182.0
+Julio Jones,WR,75,220,4.34,38.5,17.0,135.0,6.66,4.25,2011,JoneJu02,28.0,Atlanta Falcons,1.0,6.0
+Jeremy Kerley,WR,69,189,4.56,34.5,16.0,120.0,,,2011,KerlJe00,14.0,New York Jets,5.0,153.0
+Greg Little,WR,74,231,4.51,40.5,27.0,129.0,6.8,4.21,2011,LittGr00,13.0,Cleveland Browns,2.0,59.0
+Ricardo Lockette,WR,74,211,4.34,35.5,,127.0,7.15,4.19,2011,LockRi00,2.0,,,
+Jeff Maehl,WR,73,190,4.56,33.5,,115.0,6.42,3.94,2011,MaehJe00,1.0,,,
+Denarius Moore,WR,72,194,4.43,36.0,13.0,118.0,6.78,4.15,2011,MoorDe02,15.0,Oakland Raiders,5.0,148.0
+Joseph Morgan,WR,72,189,4.38,35.5,10.0,123.0,6.91,4.25,2011,,0.0,,,
+O.J. Murdock,WR,70,197,4.5,34.5,15.0,116.0,,4.37,2011,MurdO.00,0.0,,,
+Jamar Newsome,WR,72,200,4.46,38.5,13.0,129.0,6.83,4.22,2011,NewsJa00,0.0,,,
+Niles Paul,WR,73,224,4.45,34.5,24.0,117.0,6.9,4.14,2011,PaulNi00,2.0,Washington Redskins,5.0,155.0
+Austin Pettis,WR,75,209,4.56,33.5,14.0,120.0,6.68,3.88,2011,PettAu00,7.0,St. Louis Rams,3.0,78.0
+Kealoha Pilares,WR,70,199,4.42,,19.0,,,,2011,PilaKe00,1.0,Carolina Panthers,5.0,132.0
+Aldrick Robinson,WR,70,184,4.35,40.0,17.0,126.0,6.65,4.09,2011,RobiAl00,5.0,Washington Redskins,6.0,178.0
+Greg Salas,WR,73,210,4.53,37.0,15.0,120.0,6.65,4.1,2011,SalaGr00,2.0,St. Louis Rams,4.0,112.0
+DeMarco Sampson,WR,74,204,4.41,,14.0,,,,2011,SampDe00,0.0,Arizona Cardinals,7.0,249.0
+Jock Sanders,WR,66,181,4.5,34.5,19.0,121.0,6.78,4.13,2011,,0.0,,,
+Dane Sanzenbacher,WR,71,182,4.56,33.5,,118.0,6.46,3.97,2011,SanzDa00,3.0,,,
+Cecil Shorts,WR,72,205,4.5,34.5,21.0,114.0,6.5,4.07,2011,ShorCe00,12.0,Jacksonville Jaguars,4.0,114.0
+Keith Smith-03,WR,74,214,4.65,,,,,,2011,SmitKe03,1.0,,,
+Torrey Smith,WR,73,204,4.41,41.0,19.0,126.0,6.72,4.13,2011,SmitTo02,24.0,Baltimore Ravens,2.0,58.0
+Owen Spencer,WR,74,195,4.51,37.5,6.0,125.0,6.86,4.18,2011,SpenOw00,0.0,,,
+Terrence Toliver,WR,75,212,4.52,32.0,,122.0,6.48,4.03,2011,ToliTe00,0.0,,,
+Terrance Turner,WR,74,220,4.53,41.0,16.0,128.0,6.77,4.15,2011,,0.0,,,
+Ryan Whalen,WR,73,202,4.53,38.5,18.0,123.0,6.67,4.09,2011,WhalRy00,0.0,Cincinnati Bengals,6.0,167.0
+Marshall Williams,WR,73,188,4.56,35.5,9.0,123.0,6.61,4.09,2011,,0.0,,,
+Jimmy Young,WR,72,204,4.5,37.0,19.0,115.0,7.08,4.18,2011,,0.0,,,
+Titus Young,WR,71,174,4.43,,,123.0,,,2011,YounTi00,8.0,Detroit Lions,2.0,44.0

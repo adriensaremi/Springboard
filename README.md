@@ -4,7 +4,7 @@ In this directory, you will find all content from the Springboard assignments, a
 - mini-projects: each one covering a specific topic of data science.
 - capstone projects (two of them)
 
-These capstone assignments are done under the supervision of Lucas Allen, my mentor at Springboard. They are data science projects done from start to finish and they include: 
+These capstone assignments were done under the supervision of Lucas Allen, my mentor at Springboard. They are data science projects done from start to finish and they include: 
 - collecting datasets,
 - cleaning, organizing, and visualizing data, 
 - perform statistical analysis,
