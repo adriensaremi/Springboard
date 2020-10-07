@@ -2,6 +2,7 @@
 
 
 import pandas as pd
+pd.set_option('mode.chained_assignment', None)
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -9,51 +10,68 @@ import matplotlib.pyplot as plt
 pd.set_option('display.max_rows', 100)
 pd.set_option('display.max_columns', 100)
 
-import statsmodels.api as sm
-from statsmodels.formula.api import ols
 
-
-from sklearn.metrics import mean_squared_error, classification_report, confusion_matrix
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score, recall_score, precision_score
 from sklearn.metrics import roc_curve, roc_auc_score, log_loss, precision_recall_curve
 from sklearn.model_selection import train_test_split, cross_val_score, cross_validate, GridSearchCV
+
+from sklearn.linear_model import LinearRegression, Ridge, ElasticNet, LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
-from sklearn.linear_model import LinearRegression, Ridge, ElasticNet, LogisticRegression
+from sklearn.decomposition import PCA
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier, ExtraTreesClassifier
 
 from sklearn import preprocessing
-from sklearn.ensemble import RandomForestClassifier, ExtraTreesClassifier
-from sklearn.impute import SimpleImputer as Imputer
+from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 
 
+list_of_incomplete_rows = [27, 58, 151, 153, 255, 286, 307, 316, 347, 369, 370, 381, 408, 410, 411, 437, 438, 440, 444, 450, 464, 472, 474, 483, 486]
+
+num_features = ['cfb_td', 'cfb_yards', 'cfb_receptions', 'cfb_plays','cfb_yards_per_play', 'cfb_games', 
+'combine_wt', 'combine_cone','combine_vertical', 'combine_broadjump', 'combine_forty','combine_draft_age']
+
+
+cat_features_1 = ['cfb_conference_Big 12', 'cfb_conference_Big East', 'cfb_conference_Big Ten', 
+'cfb_conference_CUSA', 'cfb_conference_Ind', 'cfb_conference_MAC', 'cfb_conference_MWC', 
+'cfb_conference_Pac-10', 'cfb_conference_Pac-12', 'cfb_conference_SEC', 'cfb_conference_Sun Belt', 'cfb_conference_WAC']
+cat_features_2 = ['cfb_class_JR', 'cfb_class_SO', 'cfb_class_SR']
+
 ### USER-DEFINED FUNCTIONS
 
-def dropthenan(table):
-    cond1 = table[table.cfbconference == 'Other'].index.tolist()
-    cond2 = table[table.cfbtd.isna()].index.tolist()
-    cond3 = table[table.combineforty.isna()].index.tolist()
-#    cond = np.unique(cond1+cond2+cond3)
-    cond = np.intersect1d(np.intersect1d(cond1,cond2),cond3)
-    return table.drop(cond, axis = 0).reset_index(drop = True)
 
-def confclass(table):
-    table.loc[table.cfbconference == 'Other','cfbconference'] = np.nan
-    table.loc[table.cfbclass == 'Non Declared','cfbclass'] = np.nan
-    table = pd.get_dummies(table, prefix=['cfbconference','cfbclass'])
+def confclass_tonumerical(table):
+    table = pd.get_dummies(table, prefix=['cfb_conference','cfb_class'], drop_first = True)
     return table
 
-# def splitter(table, col, thresh):
-#     table['target'] = table[col].apply(lambda x: 1 if x > thresh else 0)
-#     return table.drop(col, axis = 1)
+def confclass_tonumerical_2(table):
+    for feature in cat_features_1:
+        table[feature] = (table.cfb_conference == feature[15:])*1
+    for feature in cat_features_2:
+        table[feature] = (table.cfb_class == feature[10:])*1
+    return table.drop(['cfb_conference', 'cfb_class'], axis = 1)
 
-def splitter(arr, thresh):
-    return arr.apply(lambda x: 1 if x > thresh else 0)
+def success_function(table, column, thresh):
+    cols = table.columns.tolist()
+    table['success'] = (table[column] >= thresh)*1
+    cols.remove(column)
+    cols = ['success'] + cols
+    return table[cols]
 
-def normalizeX(X, cols_list):
-    x = X[cols_list]
-    X_others = X.drop(cols_list, axis = 1)
-    trans = preprocessing.MinMaxScaler()
-    #trans = preprocessing.StandardScaler()
-    x_scaled = trans.fit_transform(x)
-    X_new = pd.DataFrame(x_scaled , columns = X[cols_list].columns.tolist())
-    return pd.concat([X_new, X_others], axis = 1) #pd.concat([X_new + X_others], axis = 1)
+def normalizeX(X0, cols_list, normalize_strategy):
+    X = X0[cols_list]
+    X_others = X0.drop(cols_list, axis = 1)
+    trans = normalize_strategy()
+    Xp = pd.DataFrame(trans.fit_transform(X) , columns = X.columns.tolist())
+    return pd.concat([Xp, X_others], axis = 1)
+
+def transformingX(X, missing_strategy, normalize_strategy):
+    # Replace missing values by mean strategy
+    imp = SimpleImputer(missing_values= np.nan, strategy = missing_strategy)
+    imp.fit(X)
+    Xp = pd.DataFrame(imp.transform(X), columns = X.columns.tolist())
+
+    # Normalize all feature numerical data (except the dummy columns associated with conference and class)
+    Xp = normalizeX(Xp, num_features, normalize_strategy)
+    return Xp
