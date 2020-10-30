@@ -9,4 +9,4 @@ Often enough, these materials are visually described by a lattice representation
 
 To achieve our goal, we follow Jason Brownless' article for Machine Learning Mastery on how to develop a **GAN (Generative Adversarial Network)** from scratch. The notebook used is a Google's Colab Notebook, which allowed me to access Google's GPU services to build and train the model. By training on 100s images of different mechanical networks (with and without bonds connectivity drawn) only, the model I built is able to plot the bond connectivity automatically on systems it has never seen before. While the result itself is pretty astonishing, the **architecture of the model**, which relies on **Convulational Neural Networks**, **Discriminating** and **Generating algorithms** is equally important to understand.
 
-I recommend to check out the notebook found in this directory, along with the final report and the slides to learn more about this project.
+I recommend to check out the notebook found in this repository, along with the final report and the slides to learn more about this project.
