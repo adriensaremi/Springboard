@@ -1,6 +1,6 @@
 ## Springboard
 
-In this directory, you will find all content from the Springboard assignments, a online data science education platform that trains data scientists to face most of the challenges of the data science business world. The exercises are various, and are in the form of:
+In this repository, you will find all content from the Springboard assignments, a online data science education platform that trains data scientists to face most of the challenges of the data science business world. The exercises are various, and are in the form of:
 - mini-projects: each one covering a specific topic of data science.
 - capstone projects (two of them)
 
@@ -9,4 +9,4 @@ These capstone assignments were done under the supervision of Lucas Allen, my me
 - cleaning, organizing, and visualizing data, 
 - perform statistical analysis,
 - and building predictive models. 
-I recommend to open each corresponding sub-directory to know more about the objective and the methodology used for each project.
+I recommend to open each corresponding sub-repository to know more about the objective and the methodology used for each project.

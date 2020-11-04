@@ -8,7 +8,7 @@ But what do we mean by **performance**? For a WR, the number of receiving yards 
 
 We build the model based on the collegiate and NFL combine achievements of players drafted between 2000 and 2014. In the end, the f1-score of our Random Forest model was **70% accurate** for a threshold of _200 yards_. We use it to rank the 2020 class of receivers (on notebook 4).
 
-### Organization of the Directory
+### Organization of the Repository
 
 For more information about the project itself, check out the sub-repository "reports". There are slides (slides.pptx) along with a final report which covers the motivations behind this capstone project, our methodology, the data wrangling steps, the statistical tests we used to analyse our data and the development of a machine learning based predictive algorithm.
 
